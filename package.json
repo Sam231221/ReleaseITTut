@@ -39,7 +39,7 @@
     "type": "git",
     "url": "git+https://github.com/Sam231221/ReleaseITTut.git.git"
   },
-  "author": "Imran",
+  "author": "Sam",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Sam231221/ReleaseITTut.git/issues"
@@ -88,5 +88,8 @@
   },
   "peerDependencies": {
     "react": ">=16"
+  },
+  "optionalDependencies": {
+    "@rollup/rollup-linux-x64-gnu": "4.21.2"
   }
 }
